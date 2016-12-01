@@ -1,0 +1,14 @@
+/*
+Theme Name:     Enigma Child
+Theme URI:      https://github.com/samchivers/enigma-wp-child-theme-demo
+Description:    Repo to demo answer to http://stackoverflow.com/questions/40872509/connect-the-css-to-the-child-theme-of-wordpress/40873039?noredirect=1#comment69014403_40873039
+Author:         Sam Chivers
+Author URI:     https://github.com/samchivers/
+Template:       enigma
+Version:        1.0
+*/
+
+.header_section { 
+    background-color: #FF0000; 
+    color: #fff; 
+}
